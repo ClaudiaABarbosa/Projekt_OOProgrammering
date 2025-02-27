@@ -1,0 +1,42 @@
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur\bin\Debug\net6.0\MinaHusdjur.exe
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur\bin\Debug\net6.0\MinaHusdjur.deps.json
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur\bin\Debug\net6.0\MinaHusdjur.runtimeconfig.json
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur\bin\Debug\net6.0\MinaHusdjur.dll
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur\bin\Debug\net6.0\MinaHusdjur.pdb
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.AssemblyInfoInputs.cache
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.AssemblyInfo.cs
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.csproj.CoreCompileInputs.cache
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.dll
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur\obj\Debug\net6.0\refint\MinaHusdjur.dll
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.pdb
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.genruntimeconfig.cache
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur\obj\Debug\net6.0\ref\MinaHusdjur.dll
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur2\MinaHusdjur\bin\Debug\net6.0\MinaHusdjur.exe
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur2\MinaHusdjur\bin\Debug\net6.0\MinaHusdjur.deps.json
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur2\MinaHusdjur\bin\Debug\net6.0\MinaHusdjur.runtimeconfig.json
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur2\MinaHusdjur\bin\Debug\net6.0\MinaHusdjur.dll
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur2\MinaHusdjur\bin\Debug\net6.0\MinaHusdjur.pdb
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur2\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur2\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.AssemblyInfoInputs.cache
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur2\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.AssemblyInfo.cs
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur2\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.csproj.CoreCompileInputs.cache
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur2\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.dll
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur2\MinaHusdjur\obj\Debug\net6.0\refint\MinaHusdjur.dll
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur2\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.pdb
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur2\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.genruntimeconfig.cache
+C:\Users\claar\OneDrive\Skrivbord\inlämning Projekt GPA131\MinaHusdjur2\MinaHusdjur\obj\Debug\net6.0\ref\MinaHusdjur.dll
+C:\Users\claar\Desktop\MinaHusdjur\MinaHusdjur\bin\Debug\net6.0\MinaHusdjur.exe
+C:\Users\claar\Desktop\MinaHusdjur\MinaHusdjur\bin\Debug\net6.0\MinaHusdjur.deps.json
+C:\Users\claar\Desktop\MinaHusdjur\MinaHusdjur\bin\Debug\net6.0\MinaHusdjur.runtimeconfig.json
+C:\Users\claar\Desktop\MinaHusdjur\MinaHusdjur\bin\Debug\net6.0\MinaHusdjur.dll
+C:\Users\claar\Desktop\MinaHusdjur\MinaHusdjur\bin\Debug\net6.0\MinaHusdjur.pdb
+C:\Users\claar\Desktop\MinaHusdjur\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claar\Desktop\MinaHusdjur\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.AssemblyInfoInputs.cache
+C:\Users\claar\Desktop\MinaHusdjur\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.AssemblyInfo.cs
+C:\Users\claar\Desktop\MinaHusdjur\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.csproj.CoreCompileInputs.cache
+C:\Users\claar\Desktop\MinaHusdjur\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.dll
+C:\Users\claar\Desktop\MinaHusdjur\MinaHusdjur\obj\Debug\net6.0\refint\MinaHusdjur.dll
+C:\Users\claar\Desktop\MinaHusdjur\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.pdb
+C:\Users\claar\Desktop\MinaHusdjur\MinaHusdjur\obj\Debug\net6.0\MinaHusdjur.genruntimeconfig.cache
+C:\Users\claar\Desktop\MinaHusdjur\MinaHusdjur\obj\Debug\net6.0\ref\MinaHusdjur.dll
