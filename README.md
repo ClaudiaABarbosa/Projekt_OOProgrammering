@@ -3,6 +3,7 @@ Detta är mitt första egenutvecklade program med objektorienterad programmering
 
 ## 📚 Kursinformation
 Kurs: Grundläggande programmering med ett objektorienterad språk [GPA131]
+
 Lärosäte: Högskolan Väst
 
 ## Kursmål
